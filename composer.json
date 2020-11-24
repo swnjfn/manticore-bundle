@@ -6,8 +6,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Sergey Vershinin",
-            "email": "versh23@gmail.com"
+            "name": "swnjfn",
+            "email": "sw@jfnet.de"
         }
     ],
     "require": {
@@ -27,10 +27,10 @@
         "doctrine/persistence": "^2.0"
     },
     "autoload": {
-        "psr-4": { "Versh23\\ManticoreBundle\\": "src/" }
+        "psr-4": { "Swnjfn\\ManticoreBundle\\": "src/" }
     },
     "autoload-dev": {
-        "psr-4": { "Versh23\\ManticoreBundle\\Tests\\": "tests/" }
+        "psr-4": { "Swnjfn\\ManticoreBundle\\Tests\\": "tests/" }
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.16.1",
