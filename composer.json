@@ -19,7 +19,7 @@
         "symfony/config": "^4.4|^5.0",
         "symfony/dependency-injection": "^4.4|^5.0",
         "symfony/http-kernel": "^4.4|^5.0",
-        "doctrine/doctrine-bundle": "^2.0",
+        "doctrine/doctrine-bundle": "^1.8",
         "psr/log": "^1.1",
         "manticoresoftware/manticoresearch-php": "^1.4",
         "pagerfanta/doctrine-orm-adapter": "^2.4",
